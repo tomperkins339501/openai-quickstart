@@ -1,0 +1,13 @@
+{
+  "name": "openai-quickstart",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "OpenAI API quickstart project using Node.js and the OpenAI SDK",
+  "main": "example.mjs",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
